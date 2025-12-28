@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "Paper Flower",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-28T20:26:58.922763Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paper Flower",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_Paper_Flower_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Paper Flower",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/02_Paper_Flower_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Paper Flower",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/03_Paper_Flower_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Paper Flower",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/04_Paper_Flower_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Paper Flower",
+      "artist": "米津玄师",
+      "has_synced": true,
+      "path": "select/05_Paper_Flower_米津玄师.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Paper Flower",
+      "artist": "Jesse Harris",
+      "has_synced": true,
+      "path": "select/06_Paper_Flower_Jesse_Harris.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Paper Flower",
+      "artist": "Kenshi Yonezu (米津玄師)",
+      "has_synced": true,
+      "path": "select/07_Paper_Flower_Kenshi_Yonezu_(米津玄師).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Paper Mache Dream Balloon",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/08_Paper_Mache_Dream_Balloon_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Paper Roses",
+      "artist": "Marie Osmond",
+      "has_synced": true,
+      "path": "select/09_Paper_Roses_Marie_Osmond.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Paper Roses (Album Version)",
+      "artist": "Marie Osmond",
+      "has_synced": true,
+      "path": "select/10_Paper_Roses_(Album_Version)_Marie_Osmond.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Paper Gangsta",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/11_Paper_Gangsta_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Paper Lung",
+      "artist": "Underoath",
+      "has_synced": true,
+      "path": "select/12_Paper_Lung_Underoath.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "종이 심장 Paper Heart",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/13_종이_심장_Paper_Heart_f(x).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "종이 심장 (Paper Heart)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/14_종이_심장_(Paper_Heart)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Paper Route (feat. Chevy Woods)",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/15_Paper_Route_(feat._Chevy_Woods)_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blue Paper",
+      "artist": "Yeasayer",
+      "has_synced": true,
+      "path": "select/16_Blue_Paper_Yeasayer.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Paper Shoes",
+      "artist": "Yoko Ono",
+      "has_synced": false,
+      "path": "select/17_Paper_Shoes_Yoko_Ono.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Comfortably Numb (Paper Faces mix)",
+      "artist": "Scissor Sisters",
+      "has_synced": false,
+      "path": "select/18_Comfortably_Numb_(Paper_Faces_mix)_Scissor_Sisters.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Filthy/Gorgeous (Paper Faces Main mix)",
+      "artist": "Scissor Sisters",
+      "has_synced": false,
+      "path": "select/19_Filthy_Gorgeous_(Paper_Faces_Main_mix)_Scissor_Sisters.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Filthy Gorgeous (Paper Faces Main Mix)",
+      "artist": "Scissor Sisters",
+      "has_synced": false,
+      "path": "select/20_Filthy_Gorgeous_(Paper_Faces_Main_Mix)_Scissor_Sisters.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Grey Day - Paper Faces Mix",
+      "artist": "Zoot Woman",
+      "has_synced": false,
+      "path": "select/21_Grey_Day_-_Paper_Faces_Mix_Zoot_Woman.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Grey Day (Paper Faces Mix)",
+      "artist": "Zoot Woman",
+      "has_synced": false,
+      "path": "select/22_Grey_Day_(Paper_Faces_Mix)_Zoot_Woman.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "It's Automatic - Paper Faces Remix",
+      "artist": "Zoot Woman",
+      "has_synced": false,
+      "path": "select/23_It's_Automatic_-_Paper_Faces_Remix_Zoot_Woman.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "It's Automatic (Paper Faces Mix)",
+      "artist": "Zoot Woman",
+      "has_synced": false,
+      "path": "select/24_It's_Automatic_(Paper_Faces_Mix)_Zoot_Woman.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Laura (Paper Faces remix)",
+      "artist": "Scissor Sisters",
+      "has_synced": false,
+      "path": "select/25_Laura_(Paper_Faces_remix)_Scissor_Sisters.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Paper Thin Hotel",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/26_Paper_Thin_Hotel_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Paper Flower",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_Paper_Flower_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Paper Flower",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_Paper_Flower_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Paper Flower",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_Paper_Flower_米津玄師.txt"
+    }
+  ]
+}
