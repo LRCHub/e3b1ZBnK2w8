@@ -1,4 +1,4 @@
-# Kenshi Yonezu – Paper Flower
+# 米津玄師 – Paper Flower
 
 > **歌詞登録ステータス：同期歌詞あり**
 
