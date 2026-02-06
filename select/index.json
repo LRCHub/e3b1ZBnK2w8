@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "Paper Flower",
-  "base_artist": "Kenshi Yonezu",
-  "createdAt": "2025-12-28T20:26:58.922763Z",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-02-06T07:43:55.714870Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -219,22 +219,6 @@
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_Paper_Flower_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "Paper Flower",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_02_Paper_Flower_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "Paper Flower",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_03_Paper_Flower_米津玄師.txt"
     }
   ]
 }
